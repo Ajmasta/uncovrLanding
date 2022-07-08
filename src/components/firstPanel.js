@@ -49,7 +49,7 @@ const ActionButton = styled.button`
   background-color: #ffffff;
   color: black;
   padding: 15px;
-  font-size: 25px;
+  font-size: 20px;
   border: none;
   :hover {
     background-color: #e6e6e6;
@@ -57,7 +57,7 @@ const ActionButton = styled.button`
   }
   transition: 0.25s;
   @media (max-width: 900px) {
-    font-size: 20px;
+    font-size: 15px;
   }
 `;
 const NavBar = styled.div`

@@ -62,7 +62,6 @@ const ActionButton = styled.button`
 `;
 const NavBar = styled.div`
   height: 40px;
-  width: 100%;
   position: absolute;
   top: 20px;
   left: 20px;
